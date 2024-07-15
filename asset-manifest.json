@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.925798da.css",
-    "main.js": "/profile/static/js/main.c54e9a75.js",
+    "main.js": "/profile/static/js/main.c0593179.js",
     "static/css/64.bba8fa55.chunk.css": "/profile/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2d583286.chunk.js": "/profile/static/js/64.2d583286.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/profile/static/css/769.b3cbb36b.chunk.css",
@@ -19,12 +19,13 @@
     "static/media/contactMailDark.svg": "/profile/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/kaso.jpg": "/profile/static/media/kaso.c77b9a5c2bbf163efa71.jpg",
     "static/media/developerActivity.svg": "/profile/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/likecard.png": "/profile/static/media/likecard.796441af8c354b13acc0.png",
     "static/media/alpha.png": "/profile/static/media/alpha.4462d6c7e44df9058d50.png",
     "static/media/skill.svg": "/profile/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/profile/index.html",
     "static/media/talksCardBack.svg": "/profile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.925798da.css.map": "/profile/static/css/main.925798da.css.map",
-    "main.c54e9a75.js.map": "/profile/static/js/main.c54e9a75.js.map",
+    "main.c0593179.js.map": "/profile/static/js/main.c0593179.js.map",
     "64.bba8fa55.chunk.css.map": "/profile/static/css/64.bba8fa55.chunk.css.map",
     "64.2d583286.chunk.js.map": "/profile/static/js/64.2d583286.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/profile/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.925798da.css",
-    "static/js/main.c54e9a75.js"
+    "static/js/main.c0593179.js"
   ]
 }
